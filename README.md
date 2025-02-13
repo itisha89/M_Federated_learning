@@ -28,3 +28,7 @@ The article covers:
 Dive deeper into the world of Federated Learning by reading the full article on Medium:  
 **[Federated Learning: Decentralized AI for Privacy, Efficiency, and Collaboration](https://medium.com/@theivision/federated-learning-decentralized-ai-for-privacy-efficiency-and-collaboration-04d79c2ca80a)**
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
